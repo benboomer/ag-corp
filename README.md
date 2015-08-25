@@ -38,5 +38,12 @@ Digital Site Vision Document for New Corporate Assets
 ####Time Frames####
 + Brand Voice (completed)
 + Wireframes (due Sep 1 with subsequent overview with creative and Misty/Michelle/Garrett)
-+ 
++ Design/Comp
+Review/Fallback QA
++ File Export
++ Development (going over each page type layout and specialty maintenance/functionality needs)
++ Housekeeping (admin governance, maintenance, plugin upkeep, analytics, PPC includes, backup schedule, etc.)
++ Launch
++ Archival (if applicable)
++ Refinement
 

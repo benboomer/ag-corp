@@ -17,7 +17,7 @@ Digital Site Vision Document for New Corporate Assets
 + 80% width and 20% sidebar
 + Contact
 + Hearing Aids child page
-+ Product landing page
++ Accesories child page
 + Results page
 
 ####Features####
@@ -27,13 +27,13 @@ Digital Site Vision Document for New Corporate Assets
 
 + Header Search (can search for products and or providers). Product search based on product number. Provider search based on zip code or practice name. Will also need to allow for location detection. Will need toggle for what type of search the visitor would like to perform.
 
-+ Search Landing Page: Will have an aggregate map of all the practices within the US and Canada with drop pins and driving instruction functionality via Google Maps API.
++ Search (LP): Will have an aggregate map of all the practices within the US and Canada with drop pins and driving instruction functionality via Google Maps API.
 
 + Search Results: Gives user option to search again, expand radius, or selection of a practice.
 
-+ Hearing Aids child page: Would feature live text of the hearing aids AGX sells.
++ Hearing Aids (child): Would feature live text of the hearing aids AGX sells.
 
-+ Hearing Aids lp: Would feature all hearing aid types and a brief description, with a link to explore the models. Would also feature a comparison chart (dynamic, that pulls content into categories to tailor search for user based on type of hearing aid, and would compare to competitors).
++ Hearing Aids (LP): Would feature all hearing aid types and a brief description, with a link to explore the models. Would also feature a comparison chart (dynamic, that pulls content into categories to tailor search for user based on type of hearing aid, and would compare to competitors).
 
 ####Time Frames####
 + Brand Voice (completed)

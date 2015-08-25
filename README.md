@@ -17,8 +17,7 @@ _August 25, 2015_
 + 100% width
 + 80% width and 20% sidebar
 + Contact
-+ Hearing Aids child page
-+ Accesories child page
++ Hearing Aids/Accesories child page
 + Results page
 
 ####Features####

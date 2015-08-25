@@ -1,5 +1,6 @@
 # ag-corp
-Digital Site Vision Document for New Corporate Assets
+Site Vision Document for new corporate assets 
+_August 25, 2015_
 
 
 ###AGXHearing.com###
